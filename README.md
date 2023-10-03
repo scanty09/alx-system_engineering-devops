@@ -1,1 +1,1 @@
-My first readme
+SHELL BASICS README
